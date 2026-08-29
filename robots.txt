@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://safary0328-lab.github.io/erika-psicologa/sitemap.xml
